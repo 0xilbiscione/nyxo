@@ -61,8 +61,8 @@ Build a community of **Outliers** — traders and thinkers who:
 ## 🪙 Token Info
 
 * **Ticker:** $NYXO
-* **Chain:** (fill in after launch)
-* **Contract Address:** (add after deployment)
+* **Chain:** Solana
+* **Contract Address:** RfzVNFfHoMYZQYWXfAKy6SHGjBdg65yMZbCTNMopump
 
 ---
 
