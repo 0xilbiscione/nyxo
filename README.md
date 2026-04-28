@@ -95,7 +95,8 @@ If you’re here:
 
 * Twitter / X: (add link)
 * Telegram: (add link)
-* Website: (optional)
+* Website: (add link)
+* Pumpfun: https://pump.fun/coin/RfzVNFfHoMYZQYWXfAKy6SHGjBdg65yMZbCTNMopump
 
 ---
 
